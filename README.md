@@ -1,6 +1,6 @@
 # Overview
 
-A test implementation for the paper "IDHashGAN: Deep Hashing with Generative Adversarial Nets for Incomplete Data Retrieval" (Under reviewing)
+A test implementation for the paper "IDHashGAN: Deep Hashing with Generative Adversarial Nets for Incomplete Data Retrieval" (Accepted by IEEE T-MM)
 
 # Environment: 
   python 3.6
@@ -55,3 +55,21 @@ A test implementation for the paper "IDHashGAN: Deep Hashing with Generative Adv
 # Notes
 - This is developed on a Linux machine running Ubuntu 16.04.
 - Use GPU for the high speed computation.
+
+# Citation
+@article{2021IDHashGAN,
+
+  title={IDHashGAN: Deep Hashing with Generative Adversarial Nets for Incomplete Data Retrieval},
+  
+  author={ Xu, Liming and Zeng, Xianhua and Li, Weisheng and Bai, Ling},
+  
+  journal={IEEE Transactions on Multimedia},
+  
+  volume={PP},
+  
+  number={99},
+  
+  pages={1-1},
+  
+  year={2021},
+}
